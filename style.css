@@ -1,0 +1,29 @@
+body {
+    font-family: "Trebuchet MS";
+    background-color: black;
+    color:#660000;
+}
+.head {
+    background: linear-gradient(to right, #880808, #4E0E04);
+    padding:10px;
+    margin: 18px;
+    border-radius: 8px;
+}
+.head h1{
+    color: whitesmoke;
+    text-align: center;
+}
+.head p{
+    color:bisque;
+    text-align: center;
+}
+ul {
+    padding:10px;
+    list-style-type: none;
+    display:flex;
+    gap: 10px;
+    color:cadetblue;
+}
+a {
+   color:cadetblue; 
+}
