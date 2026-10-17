@@ -17,13 +17,3 @@ body {
     color:bisque;
     text-align: center;
 }
-ul {
-    padding:10px;
-    list-style-type: none;
-    display:flex;
-    gap: 10px;
-    color:cadetblue;
-}
-a {
-   color:cadetblue; 
-}
