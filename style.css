@@ -17,3 +17,20 @@ body {
     color:bisque;
     text-align: center;
 }
+.humans {
+    color:blanchedalmond;
+    padding:8px;
+    margin:18px;
+    border-radius: 8px;
+}
+.humans h3{
+    color:crimson;
+}
+.system{
+    background-color: #880808;
+    padding: 4px;
+    border-radius: 4px;;
+}
+.system h3{
+    color:antiquewhite;
+}
